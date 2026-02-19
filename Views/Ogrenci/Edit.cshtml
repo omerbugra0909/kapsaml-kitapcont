@@ -1,0 +1,16 @@
+@model Ogrenci
+
+<form asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <input asp-for="Ad" />
+    <input asp-for="Soyad" />
+    <input asp-for="Yas" />
+
+    <button type="submit">Güncelle</button>
+
+</form>
+
+
+

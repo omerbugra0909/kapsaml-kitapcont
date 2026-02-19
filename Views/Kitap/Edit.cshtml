@@ -1,0 +1,17 @@
+@model kapsamlıkitapcont.Models.Kitap
+
+<h2>Düzenle</h2>
+
+<form asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <input asp-for="Ad" class="form-control mb-2" />
+
+    <input asp-for="Yazar" class="form-control mb-2" />
+
+    <input asp-for="YayinYili" class="form-control mb-2" />
+
+    <button class="btn btn-primary">Güncelle</button>
+
+</form>
