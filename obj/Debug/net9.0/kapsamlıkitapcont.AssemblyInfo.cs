@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kapsamlıkitapcont")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+291d705ab5ccdd8254c1b6da9b7e28da5fed10bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("kapsamlıkitapcont")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kapsamlıkitapcont")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
